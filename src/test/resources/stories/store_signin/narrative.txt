@@ -1,0 +1,4 @@
+Store Sign in
+In order to test sign in functionality in of store application
+As a user
+I want to test the sign in functionality with different combination of data
