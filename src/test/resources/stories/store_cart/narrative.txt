@@ -1,0 +1,4 @@
+Store Cart
+In order to test various features of product landing page in store application
+As a user
+I want to select product based on category and view its details

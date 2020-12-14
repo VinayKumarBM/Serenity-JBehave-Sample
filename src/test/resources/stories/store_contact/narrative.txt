@@ -1,0 +1,4 @@
+Store Contact
+In order to test the Contact functionality
+As a user
+I want to test that user is able to send message to a contact

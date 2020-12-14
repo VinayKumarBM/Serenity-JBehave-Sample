@@ -1,0 +1,4 @@
+Store Place Order
+In order to place an order in store application
+As a user
+I want to select a product place an order

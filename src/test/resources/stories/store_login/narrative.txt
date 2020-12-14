@@ -1,0 +1,4 @@
+Store Login
+In order to test cart functionality of store application
+As a user
+I want to verify details on the cart
